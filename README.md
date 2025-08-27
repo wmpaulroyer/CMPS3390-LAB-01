@@ -8,4 +8,5 @@ This is a simple app to learn about the follow:
 - Staging & Committing
 - Branching & Merging
 - Push, fetch, and pull
+- Using version control with an IDE
 - Forking & Pull Requests

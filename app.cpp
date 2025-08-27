@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     
-    int x = 20;
+    int x = 10;
     int y = 30;
 
     cout << "WELCOME TO MY APP!" << endl;
@@ -12,9 +12,7 @@ int main(){
     cout << x << "plus" << y << " is " << x+y << endl;
     cout << x << "minus" << y << " is " << x-y << endl;
     cout << x << "divided by" << y << " is " << x/y << endl;
-    cout << x << "multiplied by" << y << " is " << x*y << endl;
-
-    cout << "HEy I'm in a differnt environment!" << endl;    
+    cout << x << "multiplied by" << y << " is " << x*y << endl;   
    
     return 0;
 }
