@@ -3,11 +3,13 @@ using namespace std;
 
 int main(){
     
-    int x = 10;
+    int x = 20;
     int y = 30;
 
     cout << "WELCOME TO MY APP!" << endl;
     cout << "I'm using git!" << endl;
+
+    //THIS IS A COMMENT
 
     cout << x << "plus" << y << " is " << x+y << endl;
     cout << x << "minus" << y << " is " << x-y << endl;
