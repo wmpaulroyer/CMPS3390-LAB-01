@@ -11,6 +11,7 @@ int main(){
     cout << "I'm using git!" << endl;
 
     //THIS IS A COMMENT
+    //THIS IS ANOTHER COMMENT
 
     cout << x << "plus" << y << " is " << x+y << endl;
     cout << x << "minus" << y << " is " << x-y << endl;
